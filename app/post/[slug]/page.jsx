@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import blogData from "../../Data/blogData.json";
+import blogData from "../../data/blogData.json";
 import { useSearchParams } from "next/navigation";
 
 const page = ({ params }) => {
